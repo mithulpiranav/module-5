@@ -10,9 +10,11 @@ To write a C Program to find area of rectangle using pointer.
 5.	Stop the program.
 
 ## PROGRAM
+![image](https://github.com/user-attachments/assets/6169f030-66d0-4e44-a836-029691e703a4)
 
 ## OUTPUT
 		       	
+![image](https://github.com/user-attachments/assets/c8b61bda-011a-4324-9715-252a84c416ce)
 
 
 ## RESULT
@@ -34,8 +36,10 @@ To write a C Program to print 'WELCOME' using malloc() and free().
 6.	Stop the program.
 
 ## PROGRAM
+![image](https://github.com/user-attachments/assets/ef494fe5-fdd5-4806-92dc-b4cbc6f70dbe)
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/0265610c-e5cc-4cb5-82a3-4ba94d8b2109)
 
 
 
@@ -60,9 +64,13 @@ To write a C Program to store the student information and display it using struc
 4.	Stop the program.
 
 ## PROGRAM
+![image](https://github.com/user-attachments/assets/6a5a4bb6-8a4e-49ed-b35a-fe2352d4134f)
 
 
 ## OUTPUT
+
+![image](https://github.com/user-attachments/assets/7e5410d0-1db8-486e-95d8-abc0f6690115)
+
 
 
 ## RESULT
@@ -88,10 +96,13 @@ To write a C Program to read and store the data of 3 employees and calculate the
 
 ## PROGRAM
 
+![image](https://github.com/user-attachments/assets/fec02bb6-e9d6-4693-83c9-6c4021aaf2eb)
+
 
  ## OUTPUT
-
  
+ ![image](https://github.com/user-attachments/assets/7fa7f97d-bf90-430c-9bb1-5536462e2671)
+
 
 ## RESULT
 
@@ -134,15 +145,17 @@ Step 7: Output Loop (i = 0 to 1):
 Step 8: End the program.
 
 ## PROGRAM
+![image](https://github.com/user-attachments/assets/04fc4271-78d3-4f52-9ba8-0b3d27f8a6a0)
+
 
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/4b6bfd95-6148-4b73-bdea-724c6d63309d)
+![image](https://github.com/user-attachments/assets/b4edf211-9039-4cd2-8269-d8117f9964e4)
+![image](https://github.com/user-attachments/assets/48b75794-38c2-41bc-ace4-3d537546fd3f)
 
  
 
 ## RESULT
 
 Thus the C program to calculate the total and average of student using structure has been executed successfully.
-	
-
-
