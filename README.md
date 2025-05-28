@@ -36,10 +36,13 @@ To write a C Program to print 'WELCOME' using malloc() and free().
 6.	Stop the program.
 
 ## PROGRAM
-![image](https://github.com/user-attachments/assets/ef494fe5-fdd5-4806-92dc-b4cbc6f70dbe)
+
+![image](https://github.com/user-attachments/assets/d26fc08b-0167-4744-bf2c-7dce6dbd5514)
 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/0265610c-e5cc-4cb5-82a3-4ba94d8b2109)
+
+![image](https://github.com/user-attachments/assets/a7d6fb4f-8936-452a-a91b-739e79deabd9)
+
 
 
 
